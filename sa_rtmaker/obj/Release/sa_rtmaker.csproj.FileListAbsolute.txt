@@ -1,0 +1,8 @@
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\bin\Release\sa_rtmaker.exe
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\bin\Release\sa_rtmaker.pdb
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\sa_rtmaker.Form1.resources
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\sa_rtmaker.Properties.Resources.resources
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\sa_rtmaker.csproj.GenerateResource.Cache
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\sa_rtmaker.exe
+C:\Users\viskovicskrisztian\Documents\Visual Studio 2008\Projects\sa_rtmaker\sa_rtmaker\obj\Release\sa_rtmaker.pdb
